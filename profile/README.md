@@ -47,20 +47,12 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 ## Alumni
 ### MS Alumni
 - [Md Hasibur Rahman](https://github.com/hasiburniloy) — MS Graduate (now PhD, SSL)
-
-> Add new alumni entries as: `- [Full Name](https://github.com/username) — Degree, Year`
-
+- 
 ---
 
 ## Quick Links
 - 🔗 Website: **[Smart Systems Lab]([https://your-lab-website.example](https://agsmartsystem.auburn.edu/))**
 - 📫 Contact the PI: **[tur0001@auburn.edu](mailto:tur0001@auburn.edu)**
-
----
-
-## Contributing
-Lab members: open a PR to add or update your info.  
-Include your full name, role (PhD/MS/Undergrad), and GitHub handle.
 
 ---
 
