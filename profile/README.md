@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://your-lab-website.example"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="[https://your-lab-website.example](https://agsmartsystem.auburn.edu/)"><img src="https://img.shields.io/badge/Website-Visit-0A66C2?logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:tur0001@auburn.edu"><img src="https://img.shields.io/badge/Email-PI-ef4444?logo=gmail&logoColor=white" alt="Email PI" /></a>
-  <img src="https://img.shields.io/badge/Focus-Smart%20Ag%20%7C%20Robotics%20%7C%20CV%20%7C%20DL-10b981" alt="Focus Areas" />
 </p>
 
 ---
