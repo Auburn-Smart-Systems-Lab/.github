@@ -49,7 +49,7 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 ---
 
 ## Quick Links
-- 🔗 Website: **[Smart Systems Lab]([https://your-lab-website.example](https://agsmartsystem.auburn.edu/))**
+- 🔗 Website: https://agsmartsystem.auburn.edu/
 - 📫 Contact the PI: **[tur0001@auburn.edu](mailto:tur0001@auburn.edu)**
 
 ---
