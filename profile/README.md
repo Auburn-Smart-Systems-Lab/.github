@@ -45,8 +45,7 @@ We build intelligent systems for agriculture: autonomous field platforms, machin
 
 ## Alumni
 ### MS Alumni
-- [Md Hasibur Rahman](https://github.com/hasiburniloy) — MS Graduate (now PhD, SSL)
-- 
+- [Md Hasibur Rahman](https://github.com/hasiburniloy) — MS Graduate (now PhD)
 ---
 
 ## Quick Links
